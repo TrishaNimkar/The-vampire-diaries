@@ -1,0 +1,19 @@
+#bg-color{
+  background-color: rgb(169, 154, 238);
+  background-image: url("https://wallpapercave.com/wp/wp2660929.jpg");
+}
+.img1{
+  width:500px;
+  height:350px;
+}
+.text1{
+  color: rgb(28, 118, 160);
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.tiny{
+  font-size: 7px;
+}
+.margin1{
+  margin-top: 250px;
+  margin-left:250px;
+}
